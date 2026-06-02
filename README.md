@@ -1,178 +1,58 @@
 # Hi, I'm T S Amal Kumar 👋
 
-## Cybersecurity Enthusiast | AWS Cloud Practitioner | Linux Administrator
+### Cybersecurity Enthusiast | AWS Cloud Practitioner | Linux Administrator
 
 Passionate about Cybersecurity, Cloud Computing, and Linux Administration. I continuously improve my skills through hands-on labs, practical projects, security research, and bug bounty learning platforms.
 
 
-## Areas of Interest
-
-* Web Application Security
-* Vulnerability Assessment & Penetration Testing (VAPT)
-* Network Security
-* AWS Cloud Computing
-* AWS Security
-* Linux System Administration
-* API Security Testing
-* Bug Bounty Programs
+## Connect with Me
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23990000.svg?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Amalu24)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23F58220.svg?style=flat-square)](https://bugcrowd.com/h/Amal_Hunter)
 
 
-## Web Application Security
-
-### Knowledge & Experience
-
-* Cross-Site Scripting (XSS)
-* SQL Injection
-* Insecure Direct Object Reference (IDOR)
-* Cross-Site Request Forgery (CSRF)
-* Authentication & Authorization Testing
-* Broken Access Control
-* Security Misconfiguration
-* Sensitive Data Exposure
-* Input Validation Testing
-* OWASP Top 10
-* API Security Testing
-* Web Application Penetration Testing
+## Areas of Interest & Expertise
+* **Cybersecurity:** VAPT, Web Application & API Security Testing, Network Security, Bug Bounty Programs.
+* **Cloud & Infrastructure:** AWS Cloud Computing, AWS Security, Linux System Administration.
 
 
-## Vulnerability Assessment & Penetration Testing
+## Skills & Tech Stack
 
-### Skills
+### Cybersecurity & Web/Network VAPT
+* **OWASP Top 10:** XSS, SQLi, IDOR, CSRF, Broken Access Control, Security Misconfigurations, Sensitive Data Exposure.
+* **Methodologies:** Information Gathering, Reconnaissance, Subdomain Enumeration, Traffic Analysis, Vulnerability Verification, Technical Report Writing.
+* **Tools:** ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6600.svg?style=flat-square&logo=portswigger&logoColor=white) 
+    ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-%234E9A24.svg?style=flat-square) 
+    ![Nmap](https://img.shields.io/badge/Nmap-%234F5D73.svg?style=flat-square) 
+    ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=flat-square&logo=wireshark&logoColor=white) 
+    ![Metasploit](https://img.shields.io/badge/Metasploit-%232496ED.svg?style=flat-square)
+* **Fuzzing & Discovery:** `ffuf` | `Gobuster` | `Subfinder` | `Nuclei` | `Nikto`
 
-* Vulnerability Assessment
-* Penetration Testing
-* Risk Assessment
-* Information Gathering
-* Reconnaissance
-* Subdomain Enumeration
-* Security Testing Methodologies
-* Vulnerability Verification
-* Technical Documentation
-* Report Writing
+### <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.svg" width="22" height="22" /> AWS Cloud Skills
+* **Compute & Storage:** EC2, S3, EBS, EFS, AWS Lightsail.
+* **Security & Identity:** IAM (Users & Roles), Security Groups, Access Management.
+* **Operations & Backup:** Snapshot Management, Versioning & Replication, Cloud Resource Monitoring, Cost Optimization.
 
-
-## Network Security
-
-### Skills
-
-* Network Enumeration
-* Port Scanning
-* Service Enumeration
-* Service Version Detection
-* Network Reconnaissance
-* Traffic Analysis
-* Network Monitoring
-* Security Assessment
+### Linux Administration
+* **OS Distributions:** ![RHEL](https://img.shields.io/badge/Red_Hat_Enterprise_Linux-%23EE0000.svg?style=flat-square&logo=redhat&logoColor=white) 
+    ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat-square&logo=ubuntu&logoColor=white) 
+    ![CentOS](https://img.shields.io/badge/CentOS-%23262577.svg?style=flat-square&logo=centos&logoColor=white) 
+    AlmaLinux
+* **Server Administration:** Apache HTTP Server, Samba, NFS, FTP, SMTP.
+* **SysAdmin Skills:** User & Group Management, Package Management (`YUM`, `DNF`, `APT`), LVM Management, Disk Administration, Performance Monitoring.
+* **Linux Security:** `IPTables`, Access Control Lists (ACLs), Firewall Configuration, Linux Hardening, Bash Scripting.
 
 
-## AWS Cloud Skills
-
-### Compute & Storage
-
-* Amazon EC2
-* Amazon EBS
-* Amazon EFS
-* Amazon S3
-* AWS Lightsail
-
-### Security & Access
-
-* IAM Users & Roles
-* Security Groups
-* Access Management
-* Backup & Recovery
-* Storage Management
-
-### Operations
-
-* EC2 Deployment & Management
-* Snapshot Management
-* Versioning & Replication
-* Cloud Resource Monitoring
-* Cost Optimization
-
-
-## Linux Administration
-
-### Operating Systems
-
-* Red Hat Enterprise Linux
-* Ubuntu
-* CentOS
-* AlmaLinux
-
-### Server Administration
-
-* Apache HTTP Server
-* Samba Server
-* NFS Server
-* FTP Server
-* SMTP Server
-
-### System Administration
-
-* User & Group Management
-* Package Management (YUM, DNF, APT)
-* LVM Management
-* Disk Administration
-* Backup Management
-* Performance Monitoring
-
-### Security
-
-* IPTables
-* Access Control Lists (ACLs)
-* Linux Hardening
-* Firewall Configuration
-
-
-## Security Tools
-
-### Web Security
-
-* Burp Suite
-* OWASP ZAP
-* Nikto
-
-### Network Security
-
-* Nmap
-* Wireshark
-
-### Exploitation & Testing
-
-* Metasploit Framework
-
-### Discovery & Fuzzing
-
-* ffuf
-* Gobuster
-* Subfinder
-* Nuclei
-
-### Utilities
-
-* Curl
-* Bash
-* Linux CLI
-
-
-## Learning Platforms
-
-* Bugcrowd
-* TryHackMe
-* PortSwigger Web Security Academy
+## Continuous Learning Platforms
+* **PortSwigger Web Security Academy**
+* **TryHackMe**
+* **Bugcrowd**
 
 
 ## Current Focus
+* Advanced Web Application & API Security Testing
+* Bug Bounty Hunting & Security Automation
+* Linux Hardening & Infrastructure Security
 
-* Web Application Security Testing
-* API Security Testing
-* Bug Bounty Hunting
-* Linux Hardening
-* Security Automation
-  
 
-### Thanks for visiting my profile! 
-
-Always learning, building, and improving.
+### 🤝 Thanks for visiting my profile! 
+*Always learning, building, and improving.*
